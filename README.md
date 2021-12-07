@@ -66,6 +66,7 @@ Once the local database has been created, follow these steps to run locally:
 5. Run the command `yarn start` to start the react development sever at port 3000
 6. Using your browser go to localhost: http://locahost:3000/ 
 
+-
 ### Relevant Links
 [Demo](https://resume-doc.herokuapp.com/)
 [Video] https://www.youtube.com/watch?v=-6xqQKdKb9c
